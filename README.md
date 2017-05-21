@@ -1,2 +1,3 @@
-# cntk_handson
-de:code Hackdays のhand-on で使用する資料まとめ
+# CNTK HandsOn
+---
+「CNTK を使った CNN による画像認識」のハンズオン資料
