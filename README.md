@@ -23,5 +23,5 @@ python DataLoader_CIFPyAR10.py
 
 
 # 参考情報
-Python API for CNTK
-https://www.cntk.ai/pythondocs/index.html
+* [Python API for CNTK](https://www.cntk.ai/pythondocs/index.html)
+* [CNTK公式ページ](https://github.com/Microsoft/CNTK)
