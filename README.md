@@ -13,10 +13,15 @@
 ハンズオンを開始する前に、以下のように、DataLoader_CIFAR10.py を実行し、ハンズオンで使用する CIFAR-10 データをダウンロードしてください。
 
 ```py
-python DataLoader_CIFAR10.py 
+python DataLoader_CIFPyAR10.py 
 ```
 
 **3. ハンズオン開始**
 
 それでは、ハンズオンを開始しましょう。 
 本ハンズオンは、[こちらの Jupyter notebook 形式](https://github.com/msmamita/cntk_handson/blob/master/CNTK_Handson_ImageRecongnition_w_CNN.ipynb)の資料を用いて実施していただきます。
+
+
+# 参考情報
+Python API for CNTK
+https://www.cntk.ai/pythondocs/index.html
