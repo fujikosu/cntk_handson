@@ -4,6 +4,7 @@
 # Hands-On 資料
 
 **1. 本ハンズオンの概要および前提知識のおさらい**
+
 以下に、本ハンズオンの概要およびハンズオンを実施するうえで最低限必要となる事前知識についてまとめています。
 
 [ハンズオン説明資料](https://github.com/msmamita/cntk_handson/blob/master/CNTK_Beginner's_HandsOn_DecodeHackday.pptx)
