@@ -14,7 +14,7 @@
 ハンズオンを開始する前に、以下のように、DataLoader_CIFAR10.py を実行し、ハンズオンで使用する CIFAR-10 データをダウンロードしてください。
 
 ```py
-python DataLoader_CIFPyAR10.py 
+python DataLoader_CIFAR10.py 
 ```
 
 **3. ハンズオン開始**
