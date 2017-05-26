@@ -3,6 +3,24 @@
 
 # Hands-On 資料
 
+**0. 環境構築
+
+ローカルで環境構築される場合：
+
+Installing CNTK for Python on Windows
+https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Python#anaconda3
+
+Installing CNTK for Python on Linux 
+https://github.com/Microsoft/CNTK/wiki/Setup-Linux-Python
+
+ 
+Azure の場合：
+
+[Deep Learning toolkit for Data Science VM](https://azuremarketplace.microsoft.com/ja-jp/marketplace/apps/microsoft-ads.dsvm-deep-learning?tab=Overview)
+Windows 版の最初から GPU Version で環境構築された VM イメージが MarketPlaceから出ています。
+
+
+
 **1. 本ハンズオンの概要および前提知識のおさらい**
 
 以下に、本ハンズオンの概要およびハンズオンを実施するうえで最低限必要となる事前知識についてまとめています。
