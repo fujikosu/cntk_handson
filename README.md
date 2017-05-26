@@ -7,18 +7,17 @@
 
 ローカルで環境構築される場合：
 
-[Installing CNTK for Python on Windows]
-(https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Python#anaconda3
+[Installing CNTK for Python on Windows](https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Python#anaconda3
 
-[Installing CNTK for Python on Linux] 
-(https://github.com/Microsoft/CNTK/wiki/Setup-Linux-Python)
+[Installing CNTK for Python on Linux] (https://github.com/Microsoft/CNTK/wiki/Setup-Linux-Python)
 
  
+
 Azure の場合：
 
 [Deep Learning toolkit for Data Science VM](https://azuremarketplace.microsoft.com/ja-jp/marketplace/apps/microsoft-ads.dsvm-deep-learning?tab=Overview)
 
-Windows 版の最初から GPU Version で環境構築された VM イメージが MarketPlaceから出ています。
+Azure 上では、Windows 版の最初から GPU Version で環境構築された VM イメージが MarketPlaceから出ています。
 
 
 
