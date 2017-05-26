@@ -7,9 +7,9 @@
 
 ローカルで環境構築される場合：
 
-[Installing CNTK for Python on Windows](https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Python#anaconda3
+[Installing CNTK for Python on Windows](https://github.com/Microsoft/CNTK/wiki/Setup-Windows-Python#anaconda3)
 
-[Installing CNTK for Python on Linux] (https://github.com/Microsoft/CNTK/wiki/Setup-Linux-Python)
+[Installing CNTK for Python on Linux](https://github.com/Microsoft/CNTK/wiki/Setup-Linux-Python)
 
  
 
